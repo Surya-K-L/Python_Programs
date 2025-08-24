@@ -1,0 +1,8 @@
+a=input()
+b=int(input())
+c=int(input())
+d=float(input())
+print("Name: ",a)
+print("Age: ",b)
+print("Product Quantity: ",c)
+print(f"Price: {d:.2f}")
